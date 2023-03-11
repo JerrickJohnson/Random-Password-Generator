@@ -19,9 +19,9 @@ The following image demonstrates the web application's appearance and functional
 
 ## The URL of the deployed application:
 
-[Git Page](https://jerrickjohnson.github.io/Random-Password-Generator/)
+https://jerrickjohnson.github.io/Random-Password-Generator/
 
 ## The URL of the GitHub repository:
 
-[Git Hub](https://github.com/JerrickJohnson/Random-Password-Generator.git)
+https://github.com/JerrickJohnson/Random-Password-Generator.git
 
